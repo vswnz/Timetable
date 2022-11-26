@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Timetable
+comment1.params=
+comment1.target=Timetable()
+comment2.params=name\ fd
+comment2.target=void\ makeNewTT(java.lang.String,\ java.io.File)
+comment3.params=TTFile\ TTName
+comment3.target=void\ workWith(java.io.File,\ java.lang.String)
+comment4.params=
+comment4.target=void\ printMenu()
+comment5.params=TTFile
+comment5.target=void\ displayCats(java.io.File)
+comment6.params=TTFile
+comment6.target=void\ editCat(java.io.File)
+comment7.params=TTFile\ TTName
+comment7.target=void\ addCategory(java.io.File,\ java.lang.String)
+comment8.params=TTFile\ category
+comment8.target=boolean\ categoryExists(java.io.File,\ java.lang.String)
+numComments=9
